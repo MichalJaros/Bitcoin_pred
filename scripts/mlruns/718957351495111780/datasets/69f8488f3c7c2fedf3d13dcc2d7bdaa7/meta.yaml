@@ -1,0 +1,9 @@
+digest: ab1f58fa
+name: validation_0
+profile: '{"features_shape": [495, 167], "features_size": 82665, "features_nbytes":
+  330660}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 167]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "micha", "mlflow.source.name": "C:\\Users\\micha\\OneDrive\\Pulpit\\Project\\Bitcoin_pred\\scripts\\XGboost_training_model_final.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

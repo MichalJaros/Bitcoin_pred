@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/micha/OneDrive/Pulpit/Project/Bitcoin_pred/scripts/mlruns/718957351495111780
+creation_time: 1714823929982
+experiment_id: '718957351495111780'
+last_update_time: 1714823929982
+lifecycle_stage: active
+name: XGboost_experiment_autolog

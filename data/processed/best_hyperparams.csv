@@ -1,0 +1,2 @@
+alpha,booster,colsample_bylevel,colsample_bytree,gamma,lambda,learning_rate,max_depth,min_child_weight,n_estimators,num_parallel_tree,one_drop,rate_drop,subsample
+0.7722447692966574,gbtree,0.6467440873590191,0.5070399113575422,0.09942120204440258,0.71134195274865,0.2470526621593617,13,5,280,2,True,0.18299193510875617,0.8400154311159198

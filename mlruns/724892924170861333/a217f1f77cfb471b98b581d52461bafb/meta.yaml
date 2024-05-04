@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/724892924170861333/a217f1f77cfb471b98b581d52461bafb/artifacts
+deleted_time: 1714825300442
+end_time: 1714824654577
+entry_point_name: ''
+experiment_id: '724892924170861333'
+lifecycle_stage: deleted
+run_id: a217f1f77cfb471b98b581d52461bafb
+run_name: XGboost_experiment_autolog_v1
+run_uuid: a217f1f77cfb471b98b581d52461bafb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714824654555
+status: 3
+tags: []
+user_id: micha

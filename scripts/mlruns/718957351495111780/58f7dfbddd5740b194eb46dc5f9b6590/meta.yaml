@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/micha/OneDrive/Pulpit/Project/Bitcoin_pred/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/artifacts
+end_time: 1714823937097
+entry_point_name: ''
+experiment_id: '718957351495111780'
+lifecycle_stage: active
+run_id: 58f7dfbddd5740b194eb46dc5f9b6590
+run_name: skittish-snail-278
+run_uuid: 58f7dfbddd5740b194eb46dc5f9b6590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714823930130
+status: 3
+tags: []
+user_id: micha

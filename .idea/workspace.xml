@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c5ac6ab-cb66-403a-8df4-cbb5645e2cca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Bitcoin_pred.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/best_hyperparams.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/artifacts/best_hyperparams.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/artifacts/model/MLmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/artifacts/model/conda.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/artifacts/model/metadata/MLmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/artifacts/model/metadata/conda.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/artifacts/model/metadata/python_env.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/artifacts/model/metadata/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/artifacts/model/model.xgb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/artifacts/model/python_env.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/artifacts/model/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/724892924170861333/5366e603298a436ea56f90bb2516bdd5/artifacts/XGboost_artifacts.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/724892924170861333/5366e603298a436ea56f90bb2516bdd5/artifacts/feature_importance_weight.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/724892924170861333/5366e603298a436ea56f90bb2516bdd5/artifacts/feature_importance_weight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/724892924170861333/5366e603298a436ea56f90bb2516bdd5/artifacts/model/MLmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/724892924170861333/5366e603298a436ea56f90bb2516bdd5/artifacts/model/conda.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/724892924170861333/5366e603298a436ea56f90bb2516bdd5/artifacts/model/input_example.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/724892924170861333/5366e603298a436ea56f90bb2516bdd5/artifacts/model/metadata/MLmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/724892924170861333/5366e603298a436ea56f90bb2516bdd5/artifacts/model/metadata/conda.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/724892924170861333/5366e603298a436ea56f90bb2516bdd5/artifacts/model/metadata/python_env.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/724892924170861333/5366e603298a436ea56f90bb2516bdd5/artifacts/model/metadata/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/724892924170861333/5366e603298a436ea56f90bb2516bdd5/artifacts/model/model.xgb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/724892924170861333/5366e603298a436ea56f90bb2516bdd5/artifacts/model/python_env.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlartifacts/724892924170861333/5366e603298a436ea56f90bb2516bdd5/artifacts/model/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/.trash/206468696876972253/39dd50daa3164cb09c508b6558cf4697/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/.trash/206468696876972253/39dd50daa3164cb09c508b6558cf4697/tags/mlflow.runName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/.trash/206468696876972253/39dd50daa3164cb09c508b6558cf4697/tags/mlflow.source.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/.trash/206468696876972253/39dd50daa3164cb09c508b6558cf4697/tags/mlflow.source.type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/.trash/206468696876972253/39dd50daa3164cb09c508b6558cf4697/tags/mlflow.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/.trash/206468696876972253/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/.trash/702553117719072563/cbef071cf5074959b2912673541ee3be/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/.trash/702553117719072563/cbef071cf5074959b2912673541ee3be/tags/mlflow.runName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/.trash/702553117719072563/cbef071cf5074959b2912673541ee3be/tags/mlflow.source.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/.trash/702553117719072563/cbef071cf5074959b2912673541ee3be/tags/mlflow.source.type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/.trash/702553117719072563/cbef071cf5074959b2912673541ee3be/tags/mlflow.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/.trash/702553117719072563/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/0/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/params/alpha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/params/booster" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/params/colsample_bylevel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/params/colsample_bytree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/params/gamma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/params/lambda" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/params/learning_rate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/params/max_depth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/params/min_child_weight" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/params/n_estimators" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/params/num_parallel_tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/params/one_drop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/params/rate_drop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/params/subsample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/tags/mlflow.log-model.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/tags/mlflow.runName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/tags/mlflow.source.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/tags/mlflow.source.type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/tags/mlflow.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/134049044523290257/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/inputs/23e6f4b1807cbfe242f1557da321b380/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/inputs/d54301ddfbdeb0268b23937dcceccd26/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/inputs/fe9d2d87eebf8d6ad543ea2cbe287782/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/metrics/best_iteration" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/metrics/stopped_iteration" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/metrics/validation_0-rmse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/alpha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/base_score" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/booster" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/colsample_bylevel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/colsample_bynode" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/colsample_bytree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/custom_metric" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/device" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/early_stopping_rounds" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/eval_metric" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/gamma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/grow_policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/interaction_constraints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/learning_rate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/max_bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/max_cat_threshold" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/max_cat_to_onehot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/max_delta_step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/max_depth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/max_leaves" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/maximize" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/min_child_weight" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/monotone_constraints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/multi_strategy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/n_jobs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/num_boost_round" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/num_parallel_tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/objective" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/one_drop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/random_state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/rate_drop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/reg_alpha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/reg_lambda" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/sampling_method" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/scale_pos_weight" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/subsample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/tree_method" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/validate_parameters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/verbose_eval" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/params/verbosity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/tags/engineering" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/tags/mlflow.log-model.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/tags/mlflow.runName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/tags/mlflow.source.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/tags/mlflow.source.type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/tags/mlflow.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/tags/model.type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/5366e603298a436ea56f90bb2516bdd5/tags/release.candidate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/a217f1f77cfb471b98b581d52461bafb/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/a217f1f77cfb471b98b581d52461bafb/tags/mlflow.runName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/a217f1f77cfb471b98b581d52461bafb/tags/mlflow.source.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/a217f1f77cfb471b98b581d52461bafb/tags/mlflow.source.type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/a217f1f77cfb471b98b581d52461bafb/tags/mlflow.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/b9cbea6faaef4d74819a03c09f9ca33e/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/b9cbea6faaef4d74819a03c09f9ca33e/tags/mlflow.runName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/b9cbea6faaef4d74819a03c09f9ca33e/tags/mlflow.source.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/b9cbea6faaef4d74819a03c09f9ca33e/tags/mlflow.source.type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/b9cbea6faaef4d74819a03c09f9ca33e/tags/mlflow.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/c43f56f1f76c499a960b40d0eb37a716/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/c43f56f1f76c499a960b40d0eb37a716/tags/mlflow.runName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/c43f56f1f76c499a960b40d0eb37a716/tags/mlflow.source.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/c43f56f1f76c499a960b40d0eb37a716/tags/mlflow.source.type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/c43f56f1f76c499a960b40d0eb37a716/tags/mlflow.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/datasets/69f8488f3c7c2fedf3d13dcc2d7bdaa7/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/datasets/958a9a08d3255647f10988195804f738/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/datasets/f6e3694f72493e86c30d569bd467b2b8/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlruns/724892924170861333/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/XGboost_artifacts.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/XGboost_hyperparameter_tuning_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/XGboost_training_model_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/0/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/artifacts/XGboost_artifacts.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/artifacts/feature_importance_weight.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/artifacts/feature_importance_weight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/artifacts/model/MLmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/artifacts/model/conda.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/artifacts/model/input_example.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/artifacts/model/metadata/MLmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/artifacts/model/metadata/conda.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/artifacts/model/metadata/python_env.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/artifacts/model/metadata/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/artifacts/model/model.xgb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/artifacts/model/python_env.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/artifacts/model/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/inputs/643a987928280dc487bfe405d3ec6c6e/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/inputs/c740e80dc5c3348cc97d2edaa63afce0/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/inputs/e7593b71fc971aefd17bceb78ced5c71/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/metrics/best_iteration" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/metrics/stopped_iteration" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/metrics/validation_0-rmse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/alpha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/base_score" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/booster" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/colsample_bylevel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/colsample_bynode" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/colsample_bytree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/custom_metric" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/device" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/early_stopping_rounds" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/eval_metric" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/gamma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/grow_policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/interaction_constraints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/learning_rate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/max_bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/max_cat_threshold" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/max_cat_to_onehot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/max_delta_step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/max_depth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/max_leaves" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/maximize" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/min_child_weight" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/monotone_constraints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/multi_strategy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/n_jobs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/num_boost_round" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/num_parallel_tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/objective" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/one_drop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/random_state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/rate_drop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/reg_alpha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/reg_lambda" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/sampling_method" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/scale_pos_weight" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/subsample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/tree_method" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/validate_parameters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/verbose_eval" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/params/verbosity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/tags/engineering" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/tags/mlflow.log-model.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/tags/mlflow.runName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/tags/mlflow.source.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/tags/mlflow.source.type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/tags/mlflow.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/tags/model.type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/58f7dfbddd5740b194eb46dc5f9b6590/tags/release.candidate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/artifacts/XGboost_artifacts.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/artifacts/feature_importance_weight.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/artifacts/feature_importance_weight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/artifacts/model/MLmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/artifacts/model/conda.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/artifacts/model/input_example.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/artifacts/model/metadata/MLmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/artifacts/model/metadata/conda.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/artifacts/model/metadata/python_env.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/artifacts/model/metadata/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/artifacts/model/model.xgb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/artifacts/model/python_env.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/artifacts/model/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/inputs/493fdbe3f3516989de83a8723f20c2dd/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/inputs/7483231b2bf2adeff3ad226eb4795e90/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/inputs/e7586454dddecc6fd9fae2a73a6d75e7/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/metrics/best_iteration" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/metrics/stopped_iteration" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/metrics/validation_0-rmse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/alpha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/base_score" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/booster" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/colsample_bylevel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/colsample_bynode" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/colsample_bytree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/custom_metric" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/device" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/early_stopping_rounds" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/eval_metric" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/gamma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/grow_policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/interaction_constraints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/learning_rate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/max_bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/max_cat_threshold" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/max_cat_to_onehot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/max_delta_step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/max_depth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/max_leaves" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/maximize" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/min_child_weight" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/monotone_constraints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/multi_strategy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/n_jobs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/num_boost_round" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/num_parallel_tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/objective" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/one_drop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/random_state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/rate_drop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/reg_alpha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/reg_lambda" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/sampling_method" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/scale_pos_weight" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/subsample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/tree_method" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/validate_parameters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/verbose_eval" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/params/verbosity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/tags/engineering" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/tags/mlflow.log-model.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/tags/mlflow.runName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/tags/mlflow.source.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/tags/mlflow.source.type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/tags/mlflow.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/tags/model.type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/d47755541c7247c7bb8b7e443cde6da1/tags/release.candidate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/datasets/69f8488f3c7c2fedf3d13dcc2d7bdaa7/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/datasets/958a9a08d3255647f10988195804f738/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/datasets/f6e3694f72493e86c30d569bd467b2b8/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/artifacts/XGboost_artifacts.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/artifacts/feature_importance_weight.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/artifacts/feature_importance_weight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/artifacts/model/MLmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/artifacts/model/conda.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/artifacts/model/input_example.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/artifacts/model/metadata/MLmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/artifacts/model/metadata/conda.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/artifacts/model/metadata/python_env.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/artifacts/model/metadata/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/artifacts/model/model.xgb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/artifacts/model/python_env.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/artifacts/model/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/inputs/1a2b4ea004b579844e0d2de5889be9ab/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/inputs/7de240977364a4fcdee6228cebfe76a6/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/inputs/bcd6fa8824469088e07a85185118f30f/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/meta.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/metrics/best_iteration" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/metrics/stopped_iteration" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/metrics/validation_0-rmse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/alpha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/base_score" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/booster" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/colsample_bylevel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/colsample_bynode" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/colsample_bytree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/custom_metric" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/device" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/early_stopping_rounds" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/eval_metric" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/gamma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/grow_policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/interaction_constraints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/learning_rate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/max_bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/max_cat_threshold" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/max_cat_to_onehot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/max_delta_step" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/max_depth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/max_leaves" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/maximize" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/min_child_weight" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/monotone_constraints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/multi_strategy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/n_jobs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/num_boost_round" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/num_parallel_tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/objective" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/one_drop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/random_state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/rate_drop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/reg_alpha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/reg_lambda" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/sampling_method" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/scale_pos_weight" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/subsample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/tree_method" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/validate_parameters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/verbose_eval" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/params/verbosity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/tags/engineering" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/tags/mlflow.log-model.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/tags/mlflow.runName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/tags/mlflow.source.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/tags/mlflow.source.type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/tags/mlflow.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/tags/model.type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/f68db69af3cb4fe4afac63248bfb00d6/tags/release.candidate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/mlruns/718957351495111780/meta.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2fzwc8fQJ0cRSJmOXgwBZn7LG8L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.XGboost_hyperparameter_tuning.executor": "Run",
+    "Python.XGboost_hyperparameter_tuning_final.executor": "Run",
+    "Python.XGboost_training_model_final.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="XGboost_training_model_final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Bitcoin_pred" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/XGboost_training_model_final.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.XGboost_training_model_final" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c5ac6ab-cb66-403a-8df4-cbb5645e2cca" name="Changes" comment="" />
+      <created>1714817291677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714817291677</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

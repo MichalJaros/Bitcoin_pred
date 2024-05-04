@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/724892924170861333
+creation_time: 1714824489356
+experiment_id: '724892924170861333'
+last_update_time: 1714824489356
+lifecycle_stage: active
+name: XGboost experiment autolog

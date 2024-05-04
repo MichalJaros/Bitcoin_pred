@@ -1,0 +1,173 @@
+artifact_path: model
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.11.9
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: xgb
+    xgb_version: 2.0.3
+mlflow_version: 2.12.1
+model_size_bytes: 400278
+model_uuid: febc727ea8d44d8c996486e4c3ca2b8a
+run_id: f68db69af3cb4fe4afac63248bfb00d6
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "price", "required": true}, {"type": "double",
+    "name": "total_volume", "required": true}, {"type": "double", "name": "market_cap",
+    "required": true}, {"type": "long", "name": "year", "required": true}, {"type":
+    "long", "name": "month", "required": true}, {"type": "long", "name": "day", "required":
+    true}, {"type": "long", "name": "dayofweek", "required": true}, {"type": "long",
+    "name": "quarter", "required": true}, {"type": "long", "name": "dayofyear", "required":
+    true}, {"type": "long", "name": "weekofyear", "required": true}, {"type": "double",
+    "name": "price_trend", "required": false}, {"type": "double", "name": "price_seasonal",
+    "required": true}, {"type": "double", "name": "price_resid", "required": false},
+    {"type": "double", "name": "total_volume_trend", "required": false}, {"type":
+    "double", "name": "total_volume_seasonal", "required": true}, {"type": "double",
+    "name": "total_volume_resid", "required": false}, {"type": "double", "name": "lagged_total_volume",
+    "required": false}, {"type": "double", "name": "price_target_moving_average_week",
+    "required": true}, {"type": "double", "name": "price_target_max_week", "required":
+    true}, {"type": "double", "name": "price_target_min_week", "required": true},
+    {"type": "double", "name": "price_target_std_week", "required": false}, {"type":
+    "double", "name": "price_target_median_week", "required": true}, {"type": "double",
+    "name": "price_target_skew_week", "required": false}, {"type": "double", "name":
+    "price_target_kurtosis_week", "required": false}, {"type": "double", "name": "price_target_quartile_change_week",
+    "required": true}, {"type": "double", "name": "price_target_sum_week", "required":
+    true}, {"type": "double", "name": "price_target_moving_average_month", "required":
+    true}, {"type": "double", "name": "price_target_max_month", "required": true},
+    {"type": "double", "name": "price_target_min_month", "required": true}, {"type":
+    "double", "name": "price_target_std_month", "required": false}, {"type": "double",
+    "name": "price_target_median_month", "required": true}, {"type": "double", "name":
+    "price_target_skew_month", "required": false}, {"type": "double", "name": "price_target_kurtosis_month",
+    "required": false}, {"type": "double", "name": "price_target_quartile_change_month",
+    "required": true}, {"type": "double", "name": "price_target_sum_month", "required":
+    true}, {"type": "double", "name": "price_target_moving_average_quarter", "required":
+    true}, {"type": "double", "name": "price_target_max_quarter", "required": true},
+    {"type": "double", "name": "price_target_min_quarter", "required": true}, {"type":
+    "double", "name": "price_target_std_quarter", "required": false}, {"type": "double",
+    "name": "price_target_median_quarter", "required": true}, {"type": "double", "name":
+    "price_target_skew_quarter", "required": false}, {"type": "double", "name": "price_target_kurtosis_quarter",
+    "required": false}, {"type": "double", "name": "price_target_quartile_change_quarter",
+    "required": true}, {"type": "double", "name": "price_target_sum_quarter", "required":
+    true}, {"type": "double", "name": "price_target_moving_average_semester", "required":
+    true}, {"type": "double", "name": "price_target_max_semester", "required": true},
+    {"type": "double", "name": "price_target_min_semester", "required": true}, {"type":
+    "double", "name": "price_target_std_semester", "required": false}, {"type": "double",
+    "name": "price_target_median_semester", "required": true}, {"type": "double",
+    "name": "price_target_skew_semester", "required": false}, {"type": "double", "name":
+    "price_target_kurtosis_semester", "required": false}, {"type": "double", "name":
+    "price_target_quartile_change_semester", "required": true}, {"type": "double",
+    "name": "price_target_sum_semester", "required": true}, {"type": "double", "name":
+    "price_target_moving_average_year", "required": true}, {"type": "double", "name":
+    "price_target_max_year", "required": true}, {"type": "double", "name": "price_target_min_year",
+    "required": true}, {"type": "double", "name": "price_target_std_year", "required":
+    false}, {"type": "double", "name": "price_target_median_year", "required": true},
+    {"type": "double", "name": "price_target_skew_year", "required": false}, {"type":
+    "double", "name": "price_target_kurtosis_year", "required": false}, {"type": "double",
+    "name": "price_target_quartile_change_year", "required": true}, {"type": "double",
+    "name": "price_target_sum_year", "required": true}, {"type": "double", "name":
+    "total_volume_moving_average_week", "required": true}, {"type": "double", "name":
+    "total_volume_max_week", "required": true}, {"type": "double", "name": "total_volume_min_week",
+    "required": true}, {"type": "double", "name": "total_volume_std_week", "required":
+    false}, {"type": "double", "name": "total_volume_median_week", "required": true},
+    {"type": "double", "name": "total_volume_skew_week", "required": false}, {"type":
+    "double", "name": "total_volume_kurtosis_week", "required": false}, {"type": "double",
+    "name": "total_volume_quartile_change_week", "required": true}, {"type": "double",
+    "name": "total_volume_sum_week", "required": true}, {"type": "double", "name":
+    "total_volume_moving_average_month", "required": true}, {"type": "double", "name":
+    "total_volume_max_month", "required": true}, {"type": "double", "name": "total_volume_min_month",
+    "required": true}, {"type": "double", "name": "total_volume_std_month", "required":
+    false}, {"type": "double", "name": "total_volume_median_month", "required": true},
+    {"type": "double", "name": "total_volume_skew_month", "required": false}, {"type":
+    "double", "name": "total_volume_kurtosis_month", "required": false}, {"type":
+    "double", "name": "total_volume_quartile_change_month", "required": true}, {"type":
+    "double", "name": "total_volume_sum_month", "required": true}, {"type": "double",
+    "name": "total_volume_moving_average_quarter", "required": true}, {"type": "double",
+    "name": "total_volume_max_quarter", "required": true}, {"type": "double", "name":
+    "total_volume_min_quarter", "required": true}, {"type": "double", "name": "total_volume_std_quarter",
+    "required": false}, {"type": "double", "name": "total_volume_median_quarter",
+    "required": true}, {"type": "double", "name": "total_volume_skew_quarter", "required":
+    false}, {"type": "double", "name": "total_volume_kurtosis_quarter", "required":
+    false}, {"type": "double", "name": "total_volume_quartile_change_quarter", "required":
+    true}, {"type": "double", "name": "total_volume_sum_quarter", "required": true},
+    {"type": "double", "name": "total_volume_moving_average_semester", "required":
+    true}, {"type": "double", "name": "total_volume_max_semester", "required": true},
+    {"type": "double", "name": "total_volume_min_semester", "required": true}, {"type":
+    "double", "name": "total_volume_std_semester", "required": false}, {"type": "double",
+    "name": "total_volume_median_semester", "required": true}, {"type": "double",
+    "name": "total_volume_skew_semester", "required": false}, {"type": "double", "name":
+    "total_volume_kurtosis_semester", "required": false}, {"type": "double", "name":
+    "total_volume_quartile_change_semester", "required": true}, {"type": "double",
+    "name": "total_volume_sum_semester", "required": true}, {"type": "double", "name":
+    "total_volume_moving_average_year", "required": true}, {"type": "double", "name":
+    "total_volume_max_year", "required": true}, {"type": "double", "name": "total_volume_min_year",
+    "required": true}, {"type": "double", "name": "total_volume_std_year", "required":
+    false}, {"type": "double", "name": "total_volume_median_year", "required": true},
+    {"type": "double", "name": "total_volume_skew_year", "required": false}, {"type":
+    "double", "name": "total_volume_kurtosis_year", "required": false}, {"type": "double",
+    "name": "total_volume_quartile_change_year", "required": true}, {"type": "double",
+    "name": "total_volume_sum_year", "required": true}, {"type": "double", "name":
+    "market_cap_moving_average_week", "required": true}, {"type": "double", "name":
+    "market_cap_max_week", "required": true}, {"type": "double", "name": "market_cap_min_week",
+    "required": true}, {"type": "double", "name": "market_cap_std_week", "required":
+    false}, {"type": "double", "name": "market_cap_median_week", "required": true},
+    {"type": "double", "name": "market_cap_skew_week", "required": false}, {"type":
+    "double", "name": "market_cap_kurtosis_week", "required": false}, {"type": "double",
+    "name": "market_cap_quartile_change_week", "required": true}, {"type": "double",
+    "name": "market_cap_sum_week", "required": true}, {"type": "double", "name": "market_cap_moving_average_month",
+    "required": true}, {"type": "double", "name": "market_cap_max_month", "required":
+    true}, {"type": "double", "name": "market_cap_min_month", "required": true}, {"type":
+    "double", "name": "market_cap_std_month", "required": false}, {"type": "double",
+    "name": "market_cap_median_month", "required": true}, {"type": "double", "name":
+    "market_cap_skew_month", "required": false}, {"type": "double", "name": "market_cap_kurtosis_month",
+    "required": false}, {"type": "double", "name": "market_cap_quartile_change_month",
+    "required": true}, {"type": "double", "name": "market_cap_sum_month", "required":
+    true}, {"type": "double", "name": "market_cap_moving_average_quarter", "required":
+    true}, {"type": "double", "name": "market_cap_max_quarter", "required": true},
+    {"type": "double", "name": "market_cap_min_quarter", "required": true}, {"type":
+    "double", "name": "market_cap_std_quarter", "required": false}, {"type": "double",
+    "name": "market_cap_median_quarter", "required": true}, {"type": "double", "name":
+    "market_cap_skew_quarter", "required": false}, {"type": "double", "name": "market_cap_kurtosis_quarter",
+    "required": false}, {"type": "double", "name": "market_cap_quartile_change_quarter",
+    "required": true}, {"type": "double", "name": "market_cap_sum_quarter", "required":
+    true}, {"type": "double", "name": "market_cap_moving_average_semester", "required":
+    true}, {"type": "double", "name": "market_cap_max_semester", "required": true},
+    {"type": "double", "name": "market_cap_min_semester", "required": true}, {"type":
+    "double", "name": "market_cap_std_semester", "required": false}, {"type": "double",
+    "name": "market_cap_median_semester", "required": true}, {"type": "double", "name":
+    "market_cap_skew_semester", "required": false}, {"type": "double", "name": "market_cap_kurtosis_semester",
+    "required": false}, {"type": "double", "name": "market_cap_quartile_change_semester",
+    "required": true}, {"type": "double", "name": "market_cap_sum_semester", "required":
+    true}, {"type": "double", "name": "market_cap_moving_average_year", "required":
+    true}, {"type": "double", "name": "market_cap_max_year", "required": true}, {"type":
+    "double", "name": "market_cap_min_year", "required": true}, {"type": "double",
+    "name": "market_cap_std_year", "required": false}, {"type": "double", "name":
+    "market_cap_median_year", "required": true}, {"type": "double", "name": "market_cap_skew_year",
+    "required": false}, {"type": "double", "name": "market_cap_kurtosis_year", "required":
+    false}, {"type": "double", "name": "market_cap_quartile_change_year", "required":
+    true}, {"type": "double", "name": "market_cap_sum_year", "required": true}, {"type":
+    "double", "name": "price_target_RSI", "required": false}, {"type": "double", "name":
+    "price_target_MACD", "required": true}, {"type": "double", "name": "price_target_MACD_Signal",
+    "required": true}, {"type": "double", "name": "price_target_Bollinger_Upper",
+    "required": false}, {"type": "double", "name": "price_target_Bollinger_Lower",
+    "required": false}, {"type": "double", "name": "total_volume_RSI", "required":
+    false}, {"type": "double", "name": "total_volume_MACD", "required": true}, {"type":
+    "double", "name": "total_volume_MACD_Signal", "required": true}, {"type": "double",
+    "name": "total_volume_Bollinger_Upper", "required": false}, {"type": "double",
+    "name": "total_volume_Bollinger_Lower", "required": false}, {"type": "double",
+    "name": "market_cap_RSI", "required": false}, {"type": "double", "name": "market_cap_MACD",
+    "required": true}, {"type": "double", "name": "market_cap_MACD_Signal", "required":
+    true}, {"type": "double", "name": "market_cap_Bollinger_Upper", "required": false},
+    {"type": "double", "name": "market_cap_Bollinger_Lower", "required": false}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-05-04 12:00:50.201227'

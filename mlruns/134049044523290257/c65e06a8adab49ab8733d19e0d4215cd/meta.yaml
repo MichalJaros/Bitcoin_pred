@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/134049044523290257/c65e06a8adab49ab8733d19e0d4215cd/artifacts
+end_time: 1714823762725
+entry_point_name: ''
+experiment_id: '134049044523290257'
+lifecycle_stage: active
+run_id: c65e06a8adab49ab8733d19e0d4215cd
+run_name: XGboost_hyperparameter_tuning_v1
+run_uuid: c65e06a8adab49ab8733d19e0d4215cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714819866495
+status: 3
+tags: []
+user_id: micha
