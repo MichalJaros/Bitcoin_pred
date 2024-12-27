@@ -11,7 +11,7 @@ The “data” folder contains both the original and the processed data. Due to 
 The “scripts” folder contains scripts with code for hyperparameter tuning and model training.
 The XGboost_hyperparameter_tuning_final.py file handles hyperparameter tuning using RandomizedSearchCV. MLFlow was used to monitor the results. The outcome of the exercise was saved as a CSV file for further utilization.
 
-!(śimages/1.bmp)
+![](śimages/1.bmp)
 
 The XGboost_training_model_final.py file uses the saved hyperparameters and trains the model.
 
