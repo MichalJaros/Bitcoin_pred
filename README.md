@@ -1,4 +1,5 @@
-**Bitcoin Price Prediction – Time Series, MLflow, XGBoost.**  
+# Bitcoin Price Prediction – Time Series, MLflow, XGBoost.
+
 The project includes a complete pipeline covering data processing, feature engineering, hyperparameter fine-tuning, and model training. MLflow is used to track experiment results.
 
 # Table of Contents
@@ -89,19 +90,23 @@ The project can be divided into two parts:
 - **Production Part** – implemented as Python scripts.
 
 ### Research Part
-In the `Data_cleaning.ipynb` notebook, data cleaning is performed. In the `Feature_Engineering.ipynb` notebook, time series analysis and feature engineering are conducted. Besides typical features such as assigning weekdays, holidays, etc., the stationarity of the time series is analyzed.  
+In the `Data_cleaning.ipynb` notebook, data cleaning is performed. In the `Feature_Engineering.ipynb` notebook, time series analysis and feature engineering are conducted. Besides typical features such as assigning weekdays, holidays, etc., the stationarity of the time series is analyzed. 
+
 ![Data Cleaning Process](images/1.png)
 
-Correlations between variables are also examined to create additional features.  
+Correlations between variables are also examined to create additional features.
+
 ![Feature Correlation Analysis](images/2.png)
 
 As a result of this work, 165 additional features were generated. In the `Model_training_data_preparation.ipynb` notebook, the processed data is prepared for training.
 
 ### Production Part
-The `XGboost_hyperparameter_tuning_final.py` script performs hyperparameter tuning for the XGBoost model. The results are logged as artifacts in MLflow.  
+The `XGboost_hyperparameter_tuning_final.py` script performs hyperparameter tuning for the XGBoost model. The results are logged as artifacts in MLflow. 
+
 ![Hyperparameter Tuning](images/3.png)
 
-The `XGboost_training_model_final.py` script trains the model, and the results are saved as MLflow artifacts.  
+The `XGboost_training_model_final.py` script trains the model, and the results are saved as MLflow artifacts. 
+
 ![Model Training Results](images/4.jpg)
 
 ## Repository Structure
