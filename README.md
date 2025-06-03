@@ -134,8 +134,8 @@ The `XGboost_training_model_final.py` script trains the model, and the results a
 │ └── 4.jpg
 ├── notebooks/
 │ ├── Data_cleaning.ipynb
-│ └── Feature_Engineering.ipynb
-├── Model_training_data_preparation.ipynb
+│ ├── Feature_Engineering.ipynb
+│ └── Model_training_data_preparation.ipynb
 └── scripts/
 ├── XGboost_artifacts.csv
 ├── XGboost_hyperparameter_tuning_final.py
